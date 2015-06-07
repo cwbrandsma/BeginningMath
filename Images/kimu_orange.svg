@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140.48436"
+   height="120.14898"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44+devel"
+   sodipodi:docbase="C:\Documents and Settings\Molumen\Desktop"
+   sodipodi:docname="kimu_kimu.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   version="1.0">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="619.91464"
+     inkscape:cy="416.61231"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="913"
+     inkscape:window-height="829"
+     inkscape:window-x="195"
+     inkscape:window-y="134" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-314.0436,-300.85903)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#fc971a;fill-opacity:1;stroke:#050013;stroke-width:6.05100012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       id="path1904"
+       sodipodi:cx="-218.57143"
+       sodipodi:cy="330.93362"
+       sodipodi:rx="55.714287"
+       sodipodi:ry="58.57143"
+       d="M -162.85714 330.93362 A 55.714287 58.57143 0 1 1  -274.28571,330.93362 A 55.714287 58.57143 0 1 1  -162.85714 330.93362 z"
+       transform="matrix(1.2021209,0,0,0.9698862,647.03506,39.96556)" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:#050013;stroke-width:3.05947971;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
+       d="M 403.61869,335.17183 L 395.96525,337.86115 L 400.34075,345.85027 L 392.73019,339.86264 C 392.73019,339.86264 394.72499,348.80188 390.64266,348.37478 C 389.8416,348.29098 386.62881,344.45203 387.22827,339.89127 L 383.30102,348.55543 L 382.67636,337.14849 L 377.25466,345.12679 L 377.27652,336.96099 L 370.264,343.05512 L 371.455,339.00663 L 365.70837,337.66012 L 373.51197,333.14428 L 365.42621,328.76947 L 375.23871,325.55764 L 373.47009,315.3354 L 381.53164,325.65028 L 383.31035,315.08872 L 386.67827,323.63066 L 391.21825,317.52594 L 391.67885,324.67343 L 398.08856,321.6987 L 394.16466,329.40705 L 395.81607,331.94576 L 403.61869,335.17183 z "
+       id="path2796"
+       sodipodi:nodetypes="ccccsccccccccccccccccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<audacityproject projname="three answer_data" version="1.1.0" audacityversion="1.2.5" sel0="0.7662585034" sel1="3.8777324263" vpos="0" h="0.0464399093" zoom="86.1328125000" rate="48000.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="48000.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="2198528" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00006.au' len='524288' min='-0.962615' max='0.996857' rms='0.154488'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00007.au' len='524288' min='-0.880888' max='0.987457' rms='0.145576'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<simpleblockfile filename='b00008.au' len='524288' min='-0.827420' max='0.915312' rms='0.142821'/>
+			</waveblock>
+			<waveblock start="1572864" >
+				<simpleblockfile filename='b00009.au' len='524288' min='-0.740963' max='0.821622' rms='0.123613'/>
+			</waveblock>
+			<waveblock start="2097152" >
+				<simpleblockfile filename='b00010.au' len='101376' min='-0.682094' max='0.771481' rms='0.066262'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

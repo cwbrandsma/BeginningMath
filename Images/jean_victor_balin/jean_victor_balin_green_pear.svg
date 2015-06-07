@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docbase="/datas/Projs/Cliparts Stocker"
+   inkscape:export-ydpi="72.000000"
+   inkscape:export-xdpi="72.000000"
+   inkscape:export-filename="I:\Projs\Cliparts Stocker\green_pear.png"
+   sodipodi:docname="green_pear.svg"
+   inkscape:version="0.46"
+   sodipodi:version="0.32"
+   id="svg1"
+   height="310"
+   width="248"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs400">
+    <linearGradient
+       id="linearGradient3899">
+      <stop
+         id="stop3900"
+         offset="0.00000000"
+         style="stop-color:#000000;stop-opacity:0.00000000;" />
+      <stop
+         id="stop3901"
+         offset="1.0000000"
+         style="stop-color:#07891f;stop-opacity:0.69072163;" />
+    </linearGradient>
+    <linearGradient
+       y2="247.48164"
+       x2="138.80914"
+       y1="103.08068"
+       x1="201.2528"
+       id="linearGradient3902"
+       xlink:href="#linearGradient3899"
+       inkscape:collect="always"
+       gradientTransform="scale(0.9336538,1.0710608)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       y2="202.97475"
+       x2="127.57358"
+       y1="68.687726"
+       x1="205.01942"
+       id="linearGradient3903"
+       xlink:href="#linearGradient3899"
+       inkscape:collect="always"
+       gradientTransform="scale(0.9339097,1.0707674)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient2423"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.9339097,1.0707674)"
+       x1="205.01942"
+       y1="68.687726"
+       x2="127.57358"
+       y2="202.97475" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient2425"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.9336538,1.0710608)"
+       x1="201.2528"
+       y1="103.08068"
+       x2="138.80914"
+       y2="247.48164" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient2449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.9339097,1.0707674)"
+       x1="205.01942"
+       y1="68.687726"
+       x2="127.57358"
+       y2="202.97475" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient2451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.9336538,1.0710608)"
+       x1="201.2528"
+       y1="103.08068"
+       x2="138.80914"
+       y2="247.48164" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg1"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:window-y="-4"
+     inkscape:window-x="-4"
+     inkscape:window-height="1003"
+     inkscape:window-width="1680"
+     inkscape:cy="155"
+     inkscape:cx="80.400248"
+     inkscape:zoom="2.6032258"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false" />
+  <metadata
+     id="metadata401">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Green Pear</dc:title>
+        <dc:date>2004-08-04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jean-Victor Balin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="" />
+        <dc:source />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>food</rdf:li>
+            <rdf:li>fruit</rdf:li>
+            <rdf:li>pear</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>jean.victor.balin@gmail.com</dc:description>
+        <dc:language>fr-FR</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4543"
+     transform="translate(-33.850751,-15.421125)">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccc"
+       transform="translate(-140.2181,-56.24366)"
+       id="path4"
+       d="M 194,72.534 C 185.45,74.5704 173.152,91.395 178.603,99.9992 C 181.401,104.414 190.913,109.27 190.71,115.09 C 190.528,120.307 183.784,128.232 181.374,133 C 177.519,140.628 175.99,149.528 175.17,158 C 172.467,185.929 193.947,211.875 202.91,237 C 210.391,257.97 207.275,278.788 211.261,300 C 218.72,339.703 253.659,389.997 300,379.985 C 319.847,375.697 333.545,362.342 351,353.171 C 365.76,345.415 381.472,342.576 394,330.91 C 402.106,323.362 410.24084,316.03284 414.76184,305.85384 C 419.19684,295.86884 420.03578,287.70498 421.04078,276.77498 C 422.25078,263.61598 416.412,246.076 410.312,235 C 389.041,196.382 346.646,181.119 315.039,152.83 C 296.059,135.843 281.707,114.436 257,104.326 C 248.811,100.975 240.713,100.801 232,101.015 C 228.218,101.107 223.586,102.801 220.043,100.968 C 208.343,94.9177 212.349,68.1639 194,72.534 z"
+       style="fill:#000000;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path329"
+       d="M 197.17567,295.92094 C 208.10107,296.5679 224.5655,287.61849 232.76899,278.49044 L 232.95517,278.3807 C 215.03559,272.18118 200.47816,278.44483 197.17567,295.92094 z"
+       style="fill:#78423b;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       id="path50"
+       d="M 91.510168,49.8125 C 89.017466,49.754057 86.215515,50.462605 83.528002,51.023584 L 79.371167,52.523584 C 81.937443,57.328683 84.27734,61.631601 86.78125,66.46875 C 90.17075,73.017244 94.254068,82.319404 86.332251,86.960499 C 81.046706,90.057799 73.519776,90.815572 70.03125,85.5625 C 65.832352,79.240291 62.607577,72.458785 59.09375,65.78125 L 58.90625,65.90625 C 51.898085,69.173335 48.94125,74.757 46.28125,81.75 C 38.669248,101.764 42.59925,115.241 49.78125,134.75 C 57.08625,154.59401 68.71025,171.816 74.15625,192.75 C 78.193253,208.26801 74.7555,223.708 77.5625,238.75 C 85.016497,278.70101 117.68275,324.84825 163.09375,316.28125 C 173.64174,314.29126 188.8985,304.4535 196.5625,297.0625 C 200.9595,292.8205 202.47275,287.262 208.09375,283.75 C 220.69474,275.877 235.85475,282.78125 247.09375,272.65625 C 254.21674,266.23925 257.78175,261.708 263.59375,254.375 C 269.36475,247.09401 272.28425,236.797 274.03125,227.75 C 285.44124,168.64001 220.1755,141.47575 183.1875,111.09375 C 155.03531,87.969374 134.43945,48.842897 91.510168,49.8125 z"
+       style="fill:#00b200;stroke:url(#linearGradient2449)" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccc"
+       id="path60"
+       d="M 91.235999,54.814417 C 89.573463,54.789438 83.303305,56.193718 81.81619,56.99877 C 82.567272,59.051109 86.602689,66.096225 87.391562,68.445428 C 88.700831,71.931567 90.359542,74.857599 90.100466,78.449847 C 89.505498,82.08724 88.535187,84.192936 85.980249,86.537585 C 85.007775,87.845571 51.215493,101.38211 56.6875,119.75 C 57.897501,123.812 59.50125,127.965 61.40625,131.75 C 69.01825,146.87501 82.3615,158.524 93.6875,170.75 C 100.8585,178.49201 105.4145,185.557 112.3125,193.625 C 118.7285,201.13001 123.961,212.93 130.25,220.75 C 138.273,230.725 150.97325,238.0245 162.78125,242.5625 C 198.21224,256.17951 258.8135,256.92525 259.0625,205.90625 C 259.08851,200.57124 257.80025,194.02525 256.28125,188.90625 C 253.68526,180.16025 247.004,172.15725 241.25,165.65625 C 219.976,141.62225 189.76925,128.14 166.78125,105.75 C 150.69524,90.082999 136.90425,75.454 117.78125,63.375 C 110.0285,58.477501 100.62116,54.955423 91.235999,54.814417 z"
+       style="fill:#7ed77e;stroke:none" />
+    <path
+       transform="translate(-140.2181,-56.24366)"
+       id="path10"
+       d="M 193.133,81.0316 C 189.42,83.1075 184.364,92.8115 185.647,97 C 187.541,103.177 195.524,108.989 199.536,114 C 204.968,120.783 207.612,128.751 212.275,135.772 C 214.424,139.008 218.596,139.45 221.852,137.542 C 226.732,134.683 224.685,128.034 222.597,124 C 216.406,112.04 209.736,100.34 203.948,88.0895 C 201.93,83.82 199.099,77.6964 193.133,81.0316 z"
+       style="fill:#78423b;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       transform="translate(-140.2181,-56.24366)"
+       id="path16"
+       d="M 215.64038,135.57308 C 216.95656,139.03036 221.774,133.033 220.431,128 C 217.587,117.349 209.139,106.199 204.522,96 C 203.087,92.8299 201.366,86.058 198.454,84.0471 C 193.364,80.5314 188.904,91.3588 189.203,95 C 189.72,101.312 198.047,107.363 201.92,112.015 C 207.542,118.768 213.619,126.92954 215.64038,135.57308 z"
+       style="fill:#cc6f64;stroke:none" />
+    <path
+       sodipodi:end="4.1783182"
+       sodipodi:start="0.96691241"
+       transform="matrix(1.551418,0,0,0.858607,-27.85622,15.03147)"
+       d="M 63.04937,82.008318 A 6.0375671,12.527951 0 1 1 56.547604,60.912772 L 59.620975,71.696106 z"
+       sodipodi:ry="12.527951"
+       sodipodi:rx="6.0375671"
+       sodipodi:cy="71.696106"
+       sodipodi:cx="59.620975"
+       id="path1395"
+       style="fill:#7ed77e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       id="path3272"
+       d="M 91.510172,49.812498 C 89.017466,49.754058 86.215515,50.462608 83.528002,51.023588 L 79.371167,52.523588 C 81.937443,57.328688 84.27734,61.631598 86.78125,66.468748 C 90.17075,73.017248 94.254072,82.319408 86.332251,86.960498 C 81.046706,90.057802 73.519776,90.815582 70.03125,85.562498 C 65.832352,79.240288 62.607577,72.458788 59.09375,65.781248 L 58.90625,65.906248 C 51.898087,69.173338 48.941247,74.756998 46.281247,81.749998 C 38.669247,101.764 42.599247,115.241 49.781247,134.75 C 57.08625,154.59401 68.71025,171.816 74.15625,192.75 C 78.193253,208.26801 74.7555,223.708 77.5625,238.75 C 85.016497,278.70101 117.68275,324.84825 163.09375,316.28125 C 173.64174,314.29126 188.8985,304.4535 196.5625,297.0625 C 200.9595,292.8205 202.47275,287.262 208.09375,283.75 C 220.69474,275.877 235.85475,282.78125 247.09375,272.65625 C 254.21674,266.23925 257.78175,261.708 263.59375,254.375 C 269.36475,247.09401 272.28425,236.797 274.03125,227.75 C 285.44124,168.64001 220.1755,141.47575 183.1875,111.09375 C 155.03531,87.969378 134.43945,48.842898 91.510172,49.812498 z"
+       style="fill:url(#linearGradient2451);stroke:none" />
+  </g>
+</svg>
